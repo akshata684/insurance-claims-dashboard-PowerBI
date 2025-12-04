@@ -2,7 +2,8 @@
 
 This Power BI dashboard explores car insurance claim patterns across demographics, vehicle types, and income levels. It’s part of my portfolio focused on real-world analytics and business impact.
 
-🚗 Built this Power BI dashboard to uncover hidden patterns in car insurance claims. Here’s what I found 👇
+🚗 Built this Power BI dashboard to uncover hidden patterns in car insurance claims.
+
 ✅ Key insights include:
 🔹Total Claim Amount
 

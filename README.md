@@ -1,6 +1,6 @@
 Insurance Risk & Claims Analysis Dashboard (Power BI)
 
-Project Overview
+**Project Overview**
 
 This project showcases an interactive Power BI dashboard developed to analyze car insurance risk and claims behavior across multiple dimensions, including demographics, vehicle models, coverage zones, and household income levels.
 

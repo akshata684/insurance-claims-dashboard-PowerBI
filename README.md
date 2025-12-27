@@ -38,6 +38,7 @@ Ranger
 
 **Claim Frequency by Marital Status
 **
+
 Single customers account for the highest claim frequency.
 
 Married customers demonstrate relatively more controlled claim behavior.
@@ -54,10 +55,12 @@ Policy distribution across Urban, Rural, Suburban, Highly Urban, and Highly Rura
 
 **Car Usage Analysis
 **
+
 Private vehicle policies significantly outnumber commercial vehicle policies.
 
 **Income vs Claim Behavior
 **
+
 Customers in High and Medium income groups show a significantly higher claim frequency.
 
 The Low income group contributes minimally to total claims.

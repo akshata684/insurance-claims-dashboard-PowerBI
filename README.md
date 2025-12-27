@@ -1,11 +1,14 @@
 Insurance Risk & Claims Analysis Dashboard (Power BI)
-📌 Project Overview
 
-This project presents an interactive Power BI dashboard designed to analyze car insurance risk and claims behavior across multiple dimensions such as demographics, vehicle models, coverage zones, and income levels. The goal is to uncover actionable insights that can help insurance companies improve risk assessment, pricing strategies, and policy planning.
+Project Overview
 
-This dashboard is part of my Data Analytics portfolio, focusing on real-world business problems and decision-making using data.
+This project showcases an interactive Power BI dashboard developed to analyze car insurance risk and claims behavior across multiple dimensions, including demographics, vehicle models, coverage zones, and household income levels.
 
-Key KPIs
+The objective of this analysis is to generate actionable insights that can support insurance companies in improving risk assessment, premium pricing strategies, and policy planning.
+
+This dashboard is part of my Data Analytics portfolio, with a strong focus on real-world business scenarios and data-driven decision-making.
+
+Key Performance Indicators (KPIs)
 
 Total Claim Amount
 
@@ -21,7 +24,7 @@ Dashboard Insights
 
 Vehicle & Claim Analysis
 
-Top 5 Car Models with Highest Claim Amount
+Top 5 Car Models with the Highest Claim Amount
 
 Grand Prix
 
@@ -33,45 +36,44 @@ Camaro
 
 Ranger
 
-Certain premium and performance-oriented models show higher claim exposure
-
 Demographic Insights
 
 Claim Frequency by Marital Status
 
-Single customers contribute the highest claim frequency
+Single customers account for the highest claim frequency.
 
-Married customers show relatively controlled claim behavior
+Married customers demonstrate relatively more controlled claim behavior.
 
-Policies Distribution by Age Band
+Policy Distribution by Age Band
 
-Highest policy concentration in the 26–55 age group
+The majority of policies fall within the 26–55 age group.
 
-Lower participation from 18–25 and 65+ segments
+Lower participation is observed in the 18–25 and 65+ age segments.
 
 Geographic & Usage Patterns
 
 Policies by Coverage Zone
 
-Urban, Rural, Suburban, Highly Urban, and Highly Rural zones are fairly balanced
+Policy distribution across Urban, Rural, Suburban, Highly Urban, and Highly Rural zones remains relatively balanced.
 
 Car Usage Analysis
 
-Private vehicle policies dominate compared to commercial use
+Private vehicle policies significantly outnumber commercial vehicle policies.
 
 Income vs Claim Behavior
 
-High & Medium income groups show significantly higher claim frequency
+Customers in High and Medium income groups show a significantly higher claim frequency.
 
-Low income group contributes minimal claims
+The Low income group contributes minimally to total claims.
 
 Tools & Technologies Used
 
 Power BI Desktop
 
-DAX (Measures & Calculated Columns)
+DAX (Measures and Calculated Columns)
 
-Interactive Slicers & Filters
+Interactive slicers and filters
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/akshata-patil-a02852340/)
+Connect With Me
 
+LinkedIn: https://www.linkedin.com/in/akshata-patil-a02852340/

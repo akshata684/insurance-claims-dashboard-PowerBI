@@ -1,32 +1,76 @@
-# 🚗 Insurance Risk & Claims Analysis Dashboard
+Insurance Risk & Claims Analysis Dashboard (Power BI)
+📌 Project Overview
 
-This Power BI dashboard explores car insurance claim patterns across demographics, vehicle types, and income levels. It’s part of my portfolio focused on real-world analytics and business impact.
+This project presents an interactive Power BI dashboard designed to analyze car insurance risk and claims behavior across multiple dimensions such as demographics, vehicle models, coverage zones, and income levels. The goal is to uncover actionable insights that can help insurance companies improve risk assessment, pricing strategies, and policy planning.
 
-🚗 Built this Power BI dashboard to uncover hidden patterns in car insurance claims.
+This dashboard is part of my Data Analytics portfolio, focusing on real-world business problems and decision-making using data.
 
-✅ Key insights include:
-🔹Total Claim Amount
+Key KPIs
 
-🔹Zero Claim Frequency
+Total Claim Amount
 
-🔹Total Claim Frequency
+Zero Claim Frequency
 
-🔹Average Claim Amount
+Total Claim Frequency
 
-🔹Total Policies
+Average Claim Amount
 
-🔹Top 5 Car Models with highest Claim Amount
+Total Active Policies
 
-🔹Total Claim Freq by Marital Status
+Dashboard Insights
+Vehicle & Claim Analysis
 
-🔹Total Policies by Coverage Zone 
+Top 5 Car Models with Highest Claim Amount
 
-🔹Percentage of Policies by Age Band
+Grand Prix
 
-🔹Total Policies by Car Use
+Mustang
 
-🔹Impact of Household Income on Claim Behavior
+Corvette
 
- 
+Camaro
+
+Ranger
+
+Certain premium and performance-oriented models show higher claim exposure
+
+Demographic Insights
+
+Claim Frequency by Marital Status
+
+Single customers contribute the highest claim frequency
+
+Married customers show relatively controlled claim behavior
+
+Policies Distribution by Age Band
+
+Highest policy concentration in the 26–55 age group
+
+Lower participation from 18–25 and 65+ segments
+
+Geographic & Usage Patterns
+
+Policies by Coverage Zone
+
+Urban, Rural, Suburban, Highly Urban, and Highly Rural zones are fairly balanced
+
+Car Usage Analysis
+
+Private vehicle policies dominate compared to commercial use
+
+Income vs Claim Behavior
+
+High & Medium income groups show significantly higher claim frequency
+
+Low income group contributes minimal claims
+
+Tools & Technologies Used
+
+Power BI Desktop
+
+DAX (Measures & Calculated Columns)
+
+Interactive Slicers & Filters
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/akshata-patil-a02852340/)
 

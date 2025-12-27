@@ -18,6 +18,7 @@ Average Claim Amount
 Total Active Policies
 
 Dashboard Insights
+
 Vehicle & Claim Analysis
 
 Top 5 Car Models with Highest Claim Amount
